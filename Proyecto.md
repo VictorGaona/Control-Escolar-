@@ -22,7 +22,7 @@ Una base de datos debe ser revisada constantemente dado que si se tiene una gran
 
 
 
-## Requerimientos
+## REQUERIMIENTOS
 1. Agrupar y almacenar todos los datos de la escuela en un único lugar.
 2. Facilitar el acceso de datos los alumnos.
 3. Evitar la redundancia y mejorar la organización de la agenda.
