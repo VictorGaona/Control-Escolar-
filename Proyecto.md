@@ -1,4 +1,4 @@
-# Proyecto Base de Datos
+## Proyecto Base de Datos
 ### Segundo Avance
 
 1. Introduccion
@@ -17,7 +17,7 @@ Un ejemplo de esto puede ser el una base de datos de una escuela:
 Se desea registrar 4 alumnos y para esto cada uno cuenta con un numero de control. Al momento del acceso de mostraran todos los datos del alumno (Materias, horarios, calificaciones). Al igual que se podra dar de baja, hacer modificaciones o busqueda por numero de control. 
 Anteriormente era muy complicado el tener un registro de alumnos pero gracias a los avances tecnológicos , ahora se puede usar una base de datos en la cual se guardan los registros de todos los alumnos previamente inscritos.
 
-### PROBLEMATICA
+##### PROBLEMATICA
 Una base de datos debe ser revisada constantemente dado que si se tiene una gran cantidad de informacion, esta tiene que ser accesible por el administrador sin problema alguno. Al igual que el usuario no debe tener acceso a esta informacion ya que puede hacer cambios en el sistema y sacar provecho de ello. Cada modificación de datos o borrado debe ser registrado para saber cuando y quien hizo tal cambio. Esto con el fin de tener una base coordinada para mejor uso. Tambien se puede llegar a tener problemas de intefaz y esto puede provocar que un usuario que no tiene experiencia previa con el uso de una pagina para ver su informacion se confunda. 
 
 
