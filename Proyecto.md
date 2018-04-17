@@ -33,4 +33,4 @@ Se quiere realizar este proyecto con la finalidad de aprender mas el manejo de l
 
 ## Diagrama Entidad - Relacion
 
-![Diagrama E-R](C:\Users\Victor Ivan\Pictures\Screenshots\Esquema.png)
+![Diagrama E-R](https://github.com/VictorGaona/Evaluaci-n-Ordinaria-Pr-ctica-Unidad-1/blob/master/Entidad%20Relacion.png)
