@@ -20,10 +20,10 @@ Es por eso que el desarrollar e implementar este sistema, reduciremos el exceso 
 Así este sistema podrá ser implementado en muchas más instituciones educativas que presenten esta misma problemática o una similar, ya que nuestro sistema al ser de robusto y de fácil adaptación puede integrarse a requerimientos específicos de cada institución.
 
 ## OBJETIVOS GENERALES
-•	Agrupar y almacenar todos los datos de la escuela en un único lugar.
-•	Facilitar el acceso de datos los alumnos.
-•	Evitar la redundancia y mejorar la organización de la agenda.
-•	Apoyar, automatizar y agilizar la gestión y elaboración de documentación en el ramo administrativo de la institución.
+- Agrupar y almacenar todos los datos de la escuela en un único lugar.
+- Facilitar el acceso de datos los alumnos.
+- Evitar la redundancia y mejorar la organización de la agenda.
+- Apoyar, automatizar y agilizar la gestión y elaboración de documentación en el ramo administrativo de la institución.
 
 ## MOTIVACION
 Se quiere realizar este proyecto con la finalidad de aprender más el manejo de las bases de datos, al igual que poder encontrarles alguna solución o poder implementarlos en el futuro. Con la practica constante se aprenderán cosas nuevas, al igual que la retroalimentación dará nuevas ideas para así poder optimizar nuestra base de datos. Se mejorará la interfaz y se ayudara a los alumnos con en manejo de su información si es que este proyecto se llevara a grandes escalas en un futuro.
