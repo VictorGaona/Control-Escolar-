@@ -1,3 +1,4 @@
+
 # Proyecto Base de Datos
 
 - Introducción
@@ -30,3 +31,6 @@ Se quiere realizar este proyecto con la finalidad de aprender más el manejo de 
 
 
 ![Diagrama E-R](https://github.com/VictorGaona/Evaluaci-n-Ordinaria-Pr-ctica-Unidad-1/blob/master/Entidad%20Relacion.png)
+
+![Diccionario Atributos](https://github.com/VictorGaona/Control-Escolar-/blob/master/diccionario%20atributos.png)
+![Diccionario Entidades](https://github.com/VictorGaona/Control-Escolar-/blob/master/diccionario%20entidades.png)
