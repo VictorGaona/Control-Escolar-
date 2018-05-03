@@ -1,11 +1,11 @@
 # Proyecto Base de Datos
 
-    Introducción
-    Introducción a la problemática seleccionada
-    Justificación
-    Objetivos Generales
-    Motivación
-    Diagrama Entidad – Relación
+- Introducción
+- Introducción a la problemática seleccionada
+- Justificación
+- Objetivos Generales
+- Motivación
+- Diagrama Entidad – Relación
 
 
 ## INTRODUCCION
