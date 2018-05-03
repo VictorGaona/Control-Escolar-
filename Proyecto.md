@@ -1,4 +1,3 @@
-
 # Proyecto Base de Datos
 
 - Introducción
@@ -7,6 +6,8 @@
 - Objetivos Generales
 - Motivación
 - Diagrama Entidad – Relación
+- Diccionario Atributos
+- Diccionarios Entidades
 
 
 ## INTRODUCCION
